@@ -9,7 +9,7 @@ Single-page app for representing any database as graphs and charts - helping use
 - Grouping tables by any attribute chosen
 
 ### Tech Stack
-![screen shot 2018-01-22 at 10 35 01](https://user-images.githubusercontent.com/30931242/35216737-8962bfb0-ff60-11e7-9b98-eb2b02fabc44.png)
+![screen shot 2018-01-22 at 10 50 36](https://user-images.githubusercontent.com/30931242/35217168-1fc08d74-ff62-11e7-822a-bef7d1c276c7.png)
 
 ### Demo
 ![screen shot 2018-01-22 at 10 47 32](https://user-images.githubusercontent.com/30931242/35217048-b9bf2b98-ff61-11e7-8cf7-369c1410b7ca.png)
